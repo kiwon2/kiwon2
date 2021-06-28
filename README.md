@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 💻 **I'm a Develover**
+
+## How to reach me? ##
+
+- 📖 **blog...추가예정**
+
+- 📫 **email ...rldnjsrldnjs12@naver.com**
 <!--
 **kiwon2/kiwon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
